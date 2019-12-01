@@ -1,5 +1,5 @@
 # AttachmentManager
-Work related projects
+Work related project
 
 A simple VSTO add-in for Outlook
 
