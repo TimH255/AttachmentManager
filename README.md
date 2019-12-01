@@ -1,4 +1,4 @@
-# workstuff
+# AttachmentManager
 Work related projects
 
 A simple VSTO add-in for Outlook
